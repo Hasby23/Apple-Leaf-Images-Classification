@@ -9,6 +9,7 @@ The dataset for this study was sourced from a publicly available repository on G
 2. Black Rot
 3. Cedar Apple Rust
 4. Healthy
+
 The total number of images is 3171, for this study the dataset is split into train, validation, and test with a ratio of 80:10:10
 
 Dataset source: https://github.com/spMohanty/PlantVillage-Dataset/tree/master/raw/color
